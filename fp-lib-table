@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name vario)(type KiCad)(uri /home/nick/Documents/kicad/vario_V1)(options "")(descr ""))
+  (lib (name lcd)(type KiCad)(uri /home/nick/Documents/kicad/lib/PCF8551ATT_AJ)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name vario)(type Legacy)(uri ${KIPRJMOD}/vario.lib)(options "")(descr ""))
+  (lib (name lcd_decoder)(type Legacy)(uri /home/nick/Documents/kicad/lib/PCF8551ATT_AJ/PCF8551ATT_AJ.lib)(options "")(descr ""))
+)
